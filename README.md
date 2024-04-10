@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/01/23/30/05/240_F_123300545_2PHGORJMoQpt5sbyc88yw0QyseSNVEpO.jpg)
+![MasterHead](https://t4.ftcdn.net/jpg/03/78/04/71/240_F_378047133_PcosC8BBezdfr7O0vMPvXUKJ3FvEcIXr.jpg)
 <h1 align="center">Hi 👋, I'm Sushant Kumar</h1>
 <h3 align="center">A passionate Full-Stack developer from India. Currently working on React with Express and Node.js taking MongoDB as the database.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
